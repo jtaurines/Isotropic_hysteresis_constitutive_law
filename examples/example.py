@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-from mon_projet.constants import Constants
-from mon_projet.hysteresis import hysteresis_analytique
+from isomag.constants import Constants
+from isomag.hysteresis import hysteresis_analytique
 
 
 def main():
