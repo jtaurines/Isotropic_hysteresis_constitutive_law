@@ -1,1 +1,1 @@
-# Isotropic_hysteresis_constitutive_law
+# Isotropic_magnetic_hysteresis_constitutive_law
