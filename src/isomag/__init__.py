@@ -1,0 +1,2 @@
+"""Isotropic magnetic hysteresis model"""
+
