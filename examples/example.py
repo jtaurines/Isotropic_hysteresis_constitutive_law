@@ -40,7 +40,13 @@ def main():
     plt.xlabel(r"$H$ (kA/m)", fontsize=25)
     plt.ylabel(r"$M$ (MA/m)", fontsize=25)
 
-    plt.show()
+    plt.savefig(
+    "examples/hysteresis.png",
+    dpi=300,
+    bbox_inches="tight",
+)
+
+
 
 
 if __name__ == "__main__":
